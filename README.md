@@ -3,7 +3,8 @@
 ## Sheridan Course Manager
 The Sheridan Course Manager aims to help Sheridan students with managing their work load.
 
-## Application Versions
+## Prototype
+Prototype: https://www.figma.com/proto/TunjPOAgv83PzceR6w7huD/HCI-Assignment-2?node-id=0-1&t=Pw0uFlttO8NfnWMn-1
 
 ## Design Screenshots
 Registration Page:
@@ -43,4 +44,8 @@ All Chat Groups Pages:
 https://youtu.be/S705KEYjP48
 
 ## New Desirable Functionalities
-
+1. A course feedback section where students can rate each course.
+2. A search page where users can add courses.
+3. A tutor session booking page.
+4. A comprehensive setting page where users can customize UI and alerts etc.
+5. An E-Learning page where AI is used to help users with their studies.
