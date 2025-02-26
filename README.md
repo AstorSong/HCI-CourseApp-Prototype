@@ -4,8 +4,8 @@
 The Sheridan Course Manager aims to help Sheridan students with managing their work load.
 
 ## Prototype
-Prototype: https://www.figma.com/proto/TunjPOAgv83PzceR6w7huD/HCI-Assignment-2?node-id=0-1&t=Pw0uFlttO8NfnWMn-1
-
+Prototype: [https://www.figma.com/proto/TunjPOAgv83PzceR6w7huD/HCI-Assignment-2?node-id=0-1&t=Pw0uFlttO8NfnWMn-1
+](https://www.figma.com/proto/S4n3hw0AavM80CWlwKqwaX/HCI-Assignment-3?page-id=0%3A1&node-id=5-350&p=f&viewport=358%2C-242%2C0.53&t=JNIvyW48KAfiULJF-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=5%3A350)
 ## Design Screenshots
 Registration Page:
 
