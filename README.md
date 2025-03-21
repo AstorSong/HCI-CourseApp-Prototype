@@ -4,8 +4,10 @@
 The Sheridan Course Manager aims to help Sheridan students with managing their work load.
 
 ## Prototype
-Prototype V1: [Link](https://www.figma.com/proto/V8rLaVNHlWCELHEAJo8zD0/HCI-Assignment-1?page-id=0%3A1&node-id=1-4&viewport=557%2C285%2C0.36&t=e1O4XI9rcGSgdoUq-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A4)
-Prototype V2: [Link](https://www.figma.com/proto/S4n3hw0AavM80CWlwKqwaX/HCI-Assignment-3?page-id=0%3A1&node-id=5-350&p=f&viewport=358%2C-242%2C0.53&t=JNIvyW48KAfiULJF-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=5%3A350)
+Prototype V1: [Link](https://www.figma.com/proto/V8rLaVNHlWCELHEAJo8zD0/HCI-Assignment-1?page-id=0%3A1&node-id=1-4&viewport=557%2C285%2C0.36&t=e1O4XI9rcGSgdoUq-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A4)\
+Prototype V2: [Link](https://www.figma.com/proto/S4n3hw0AavM80CWlwKqwaX/HCI-Assignment-3?page-id=0%3A1&node-id=5-350&p=f&viewport=358%2C-242%2C0.53&t=JNIvyW48KAfiULJF-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=5%3A350)\
+Prototype V3: [Link](https://www.figma.com/proto/S4n3hw0AavM80CWlwKqwaX/HCI-Assignment-3?page-id=0%3A1&node-id=5-350&p=f&viewport=311%2C217%2C0.21&t=9Ncz0Vnkanp3OrHi-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=5%3A350)
+
 ## Design Screenshots
 Registration Page:
 
